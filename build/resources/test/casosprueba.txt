@@ -6,4 +6,3 @@ Casos de prueba.
 2. isAvailable -> Cuando busque la pelicula 2, retorne mediante una variable boolean en false cuando no está dispoible
 3. getName -> Cuando busque nombre "pelicula1", exista
 4. getName ->Cuando busque la pelicula 2, espere "Pelicula 2" y retorne "Pelicula 1"
-5. getName / getGenre -> que sea el mismo nombre y el mismo genero

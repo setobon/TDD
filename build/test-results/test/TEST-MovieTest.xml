@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MovieTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-01-26T18:14:12" hostname="PSLT5983" time="1.727">
+<testsuite name="MovieTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-01-26T20:41:03" hostname="PSLT5983" time="1.788">
   <properties/>
-  <testcase name="isAvailableTrue()" classname="MovieTest" time="1.672"/>
-  <testcase name="isAvailableFalse()" classname="MovieTest" time="0.007"/>
-  <testcase name="getMovieByName()" classname="MovieTest" time="0.014"/>
-  <testcase name="getMovieByNameNotEquals()" classname="MovieTest" time="0.008"/>
-  <testcase name="getNameAndGenre()" classname="MovieTest" time="0.019"/>
+  <testcase name="findByName()" classname="MovieTest" time="1.785"/>
+  <testcase name="findByNameFalse()" classname="MovieTest" time="0.003"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
